@@ -13,3 +13,5 @@ The relevant files to the repro are:
 See video where the 1st dropdown works, but the 2nd one doesn't:
 
 ![](recording.gif)
+
+Android Bug Report link: https://issuetracker.google.com/issues/316393728
